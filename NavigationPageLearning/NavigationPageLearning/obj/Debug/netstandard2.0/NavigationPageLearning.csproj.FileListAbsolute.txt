@@ -1,0 +1,14 @@
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\bin\Debug\netstandard2.0\NavigationPageLearning.deps.json
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\bin\Debug\netstandard2.0\NavigationPageLearning.dll
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\bin\Debug\netstandard2.0\NavigationPageLearning.pdb
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.csprojResolveAssemblyReference.cache
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.csproj.CoreCompileInputs.cache
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.App.xaml.g.cs
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.MainPage.xaml.g.cs
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.Page1.xaml.g.cs
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.Page2.xaml.g.cs
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.Page3.xaml.g.cs
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.AssemblyInfoInputs.cache
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.AssemblyInfo.cs
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.dll
+c:\users\kuvar\source\repos\NavigationPageLearning\NavigationPageLearning\NavigationPageLearning\obj\Debug\netstandard2.0\NavigationPageLearning.pdb

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             x:Class="NavigationPageLearning.Page3">
+    <ContentPage.Content>
+        <StackLayout Orientation="Vertical" VerticalOptions="Center" HorizontalOptions="FillAndExpand" >
+            <Label Text="Welcome to Page 3"
+                VerticalOptions="CenterAndExpand" 
+                HorizontalOptions="CenterAndExpand" />
+            <Button Text="Submit 3" x:Name="btnSubmit3" VerticalOptions="CenterAndExpand" HorizontalOptions="FillAndExpand"></Button>
+        </StackLayout>
+    </ContentPage.Content>
+</ContentPage>
